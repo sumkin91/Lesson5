@@ -1,0 +1,7 @@
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\bin\Debug\Lesson51.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\bin\Debug\Lesson51.exe
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\bin\Debug\Lesson51.pdb
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\obj\Debug\Lesson51.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\obj\Debug\Lesson51.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\obj\Debug\Lesson51.exe
+C:\Users\Fedor\Desktop\C#\Lesson5\Lesson51\obj\Debug\Lesson51.pdb
