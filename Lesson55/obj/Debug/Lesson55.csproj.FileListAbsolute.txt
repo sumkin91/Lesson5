@@ -1,0 +1,7 @@
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\bin\Debug\Lesson55.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\bin\Debug\Lesson55.exe
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\bin\Debug\Lesson55.pdb
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\obj\Debug\Lesson55.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\obj\Debug\Lesson55.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\obj\Debug\Lesson55.exe
+C:\Users\Fedor\Desktop\C#\Lesson5(тут задание выполнял)\Lesson55\obj\Debug\Lesson55.pdb
